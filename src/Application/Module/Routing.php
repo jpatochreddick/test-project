@@ -52,5 +52,6 @@ class Routing extends Module
         $adr->post('LinkSubmit', '/submit/', Service\LinkSubmit::class)
             ->input(Input\LinkSubmit::class)
             ->responder(Responder\GenericRedirect::class);
+
     }
 }

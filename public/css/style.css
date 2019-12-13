@@ -6725,3 +6725,6 @@ body {
   margin-top: 71px;
   margin-bottom: 45px;
 }
+.pointer{
+	cursor: pointer;
+}

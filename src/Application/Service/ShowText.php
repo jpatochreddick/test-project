@@ -3,7 +3,7 @@ namespace Application\Service;
 
 use Application\Domain\Gateway\LinkReadOnly;
 
-class LinkList
+class ShowText
 {
     private $linkGateway;
 
